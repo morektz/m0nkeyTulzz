@@ -56,7 +56,7 @@ Code use for generating above button
 |3| Github Making Tables |[▶️](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
 |4| Emojipedia |[▶️](https://github.com/morektz/qbSolanaMyMoney/blob/main/.lol/.lolz)|
 |5| Github Stats Banner |[▶️](https://github.com/anuraghazra/github-readme-stats)|
-|6| Repo Hits Countier |[▶️](https://hits.seeyoufarm.com/)|
+|6| Repo Hits Countier |[▶️](https://hits.seeyoufarm.com/)|7| Github Code Block Linting |[▶️](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)| 
 
 # Tools
 
