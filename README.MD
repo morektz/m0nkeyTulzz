@@ -1,7 +1,7 @@
 
 ![This is an image](https://media.giphy.com/media/swpCsxJSgSCxq/giphy.gif)
 
-<p style="text-align:center;">
+<p align="center">
 <img src="https://media.giphy.com/media/swpCsxJSgSCxq/giphy.gif" alt="Paris" class="center">
 </p>
 
