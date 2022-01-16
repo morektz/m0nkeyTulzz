@@ -1,6 +1,10 @@
 
 ![This is an image](https://media.giphy.com/media/swpCsxJSgSCxq/giphy.gif)
 
+<p align="center"><a href="https://bit.ly/morektz" target="_blank">
+  <img src=https://media.giphy.com/media/swpCsxJSgSCxq/giphy.gif</a>
+</p>
+
 # Sat 15 Jan 2022 08:00:50 AM UTC 
 
 > This repo will stuff which I frequently use 
