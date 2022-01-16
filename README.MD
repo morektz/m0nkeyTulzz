@@ -36,7 +36,7 @@ Code use for generating above button
 
 ## Tables creation code
 
-```
+```markdown
 |n|Desc|url|
 |:---|:---:|---:|
 
