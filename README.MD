@@ -1,14 +1,22 @@
-
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2Fm0nkeyTulzz&count_bg=%23541212&title_bg=%23000000&icon=teamspeak.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  <img src=i/BigM.gif alt="Morektz"/><img src=i/BigM.gif alt="Morektz"/><img src=i/BigM.gif alt="Morektz"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2Fm0nkeyTulzz&count_bg=%23541212&title_bg=%23000000&icon=teamspeak.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-```
-# Code for above image 
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
   <img src=i/BigM.gif alt="Morektz"/><img src=i/BigM.gif alt="Morektz"/><img src=i/BigM.gif alt="Morektz"/></a>
 </p>
+
+```html
+# Code for the counter 
+<p align="center"><a href="https://bit.ly/morektz" target="_blank">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2Fm0nkeyTulzz&count_bg=%23541212&title_bg=%23000000&icon=teamspeak.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
+#Code for the dancers
+<p align="center"><a href="https://bit.ly/morektz" target="_blank">
+  <img src=i/BigM.gif alt="Morektz"/><img src=i/BigM.gif alt="Morektz"/><img src=i/BigM.gif alt="Morektz"/></a>
+</p>
+
 ```
 
 
