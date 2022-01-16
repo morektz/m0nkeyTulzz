@@ -11,6 +11,15 @@ Code use for generating above button
 ```
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/<your-shit>)
 ```
+## Tables creation code
+
+```
+|n|Desc|url|
+|---|---|---|
+
+# You can also do some margin alignment, read **Github Markup Tables**
+```
+
 
 # URLS 
 > Info constantly being referenced in this Github
