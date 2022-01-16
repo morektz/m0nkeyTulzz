@@ -1,3 +1,6 @@
+
+![This is an image](https://media.giphy.com/media/swpCsxJSgSCxq/giphy.gif)
+
 # Sat 15 Jan 2022 08:00:50 AM UTC 
 
 > This repo will stuff which I frequently use 
@@ -36,6 +39,8 @@ Code use for generating above button
 |2| Github Markdown |[▶️](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
 |3| Github Making Tables |[▶️](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
 |4| Emojipedia |[▶️](https://github.com/morektz/qbSolanaMyMoney/blob/main/.lol/.lolz)|
+|5| Github Stats Banner |[▶️](https://github.com/anuraghazra/github-readme-stats)|
+|6| Repo Hits Countier |[▶️](https://hits.seeyoufarm.com/)|
 
 
 # Tools
