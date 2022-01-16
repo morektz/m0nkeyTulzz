@@ -6,7 +6,8 @@
   <img src=i/BigM.gif alt="Morektz"/><img src=i/BigM.gif alt="Morektz"/><img src=i/BigM.gif alt="Morektz"/></a>
 </p>
 
-<details> CODE for ABOVE
+<details> 
+<summary>CODE for ABOVE</summary>
 
 ```html
 # Code for the counter 
