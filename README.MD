@@ -5,6 +5,12 @@
 <img src="https://media.giphy.com/media/swpCsxJSgSCxq/giphy.gif" alt="Paris" class="center">
 </p>
 
+<p style="text-align: center;">
+
+<p align="center"><a href="https://bit.ly/morektz" target="_blank">
+  <img src=i/BigM.gif alt="Morektz"/><img src=i/BigM.gif alt="Morektz"/></a>
+</p>
+
 # Sat 15 Jan 2022 08:00:50 AM UTC
 
 > This repo will stuff which I frequently use
