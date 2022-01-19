@@ -51,7 +51,19 @@ Code for above image
 
 ```
 
+You can also center align the above like this
 
+<p align="center"><a href="https://gitpod.io/#https://github.com/morektz/SolanaLearningMindMaps/blob/main/.gitpod.yml" target="_blank">
+    <img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod"/>
+</p>
+
+code for above 
+
+```html
+<p align="center"><a href="https://gitpod.io/#https://github.com/morektz/SolanaLearningMindMaps/blob/main/.gitpod.yml" target="_blank">
+    <img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod"/>
+</p>
+```
 
 ## Tables creation code
 
