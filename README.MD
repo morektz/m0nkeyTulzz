@@ -92,6 +92,14 @@ code for above
 
 # Tools
 
+# Notez 
+
+This section will have seperate pages for any specific notes which you are making that are relevant for you stuffz 
+
+|N|Desc|URL
+|:---|:---:|---:|
+|1| Gitpod Docker Notes | [▶️](N/gitpodDocker.md)
+
 # Symbols
 
 > Use shiznit in other repos
