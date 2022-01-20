@@ -46,16 +46,21 @@ RUN npm update -g
 RUN npm install --global http-server 
 
 ```
-This isa a standard docker configuration file , use `run` for every line. The actual doc suggests another format, but this is way easier 
+This isa a standard docker configuration file , use `run` for every line. The actual doc suggests another format, but this is way easier.
+
+If you made this docker file and then also include the npm... statemetns in the yaml, file for some reason the npm packages are not installed. This is why I recommend you put all the package installs in this docker file, and not in the yaml file.
+>Ideally avoid having having both in the same repo, and only use this method when something takes way too long to install. This is the same reasoning I had done after making mistakes
+
 
 > Making both `.gitpod.yml` & `.gitpod.Dockerfile` , is problematic and buggy. I burned way too much time on this 
+
 
 After making the files, do the tests. The test commands are 
 
 ``` bash
 docker build -f .gitpod.Dockerfile -t gitpod-dockerfile-test . 
 ``` 
-This builsds the actual docker image in your instance. Very important step, if you dont do this , then the prebuild will take an hour each time you run the test.
+This builds the actual docker image in your instance. Very important step, if you dont do this , then the prebuild will take an hour each time you run the test.
 
 ```bash
 docker run -it gitpod-dockerfile-test bash
