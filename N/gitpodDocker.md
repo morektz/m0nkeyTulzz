@@ -68,3 +68,5 @@ docker run -it gitpod-dockerfile-test bash
 This builds a gitpod-dockerfile-test image and starts a new container based on that image. At this point, you are connected to the Docker container that will be available as the foundation for your Gitpod workspace. You can inspect the container and make sure the necessary tools & libraries are installed.
 
 To exit the container and return back to your Gitpod workspace, type `exit`.
+
+> Once you have the prebuilds done, dont deleted the project, instead revert back to a snapshot and use that, when u use a snapshot its workspace gets created, and you can work on that. I made several mistakes trying to delete all the projects and snapshots, which again burned a lot of time. 
